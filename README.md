@@ -24,8 +24,8 @@ This project aims to predict the survival outcome of passengers aboard the Titan
 
 - Prediction: Once the model is trained and validated, it can be used to make predictions on new data. By inputting the passenger's details, such as Pclass, Sex, Age, SibSp, and Parch, the model will predict their survival outcome.
 
-- Results:
+## Results:
 The accuracy achieved using the chosen algorithm is recorded and displayed. If the accuracy is not satisfactory, alternative algorithms and techniques can be explored to improve performance.
 
-- Conclusion:
+## Conclusion:
 This project provides a practical example of using data science techniques to predict survival outcomes in a historical context. By leveraging machine learning algorithms and the Titanic dataset, we can gain insights into the factors that influenced survival chances. The provided code can be utilized as a starting point for further exploration, feature engineering, and model enhancement to achieve higher accuracy in survival predictions.
